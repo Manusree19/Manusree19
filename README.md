@@ -20,6 +20,7 @@ CGPA: 6.4/10
 **Data Caching Optimization with Fairness in Mobile Edge Computing** *(Python)*  
 - Designed and simulated mobile edge environments to analyze and optimize data caching performance.  
 - Improved resource utilization, reduced latency, and ensured fair data access among users with varying demands.
+
 **Advanced Approach for Detecting Behaviour-Based Intranet Attacks Using ML** *(Python, JSON, ML)*  
 - Developed a machine learning-based system to detect abnormal intranet user behavior indicating insider threats or unauthorized access.  
 - Analyzed network activity logs to identify anomalies, improving detection accuracy.
