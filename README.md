@@ -29,6 +29,7 @@ Jun 2024 – Jul 2024 | Remote
 - Developed a multi-level authentication system to enhance password security and protect against unauthorized access.  
 ## **Certifications**
 - Python Essentials – CISCO (2025)  
-- Deloitte Australia – Data Analytics Job Simulation – Forage (2025)-
+- Deloitte Australia – Data Analytics Job Simulation – Forage (2025)
 ## **Contact Me**
-Feel free to connect or reach out for collaboration or internship opportunities!
+📧 manusree.k19@gmail.com  
+
