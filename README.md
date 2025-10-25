@@ -1,8 +1,7 @@
 # Hi, I'm Manusree Konda 👋
 
 **Undergraduate • Software Intern Aspirant**  
-Warangal, Telangana  
-📧 manusree.k19@gmail.com | 📞 +91-7386570952  
+Warangal, Telangana   
 [LinkedIn](https://www.linkedin.com/in/manusree-konda-74b611243/) | [GitHub](https://github.com/Manusree19)
 ## **Summary**
 Motivated student seeking an internship to apply academic knowledge and develop professional skills. Eager to contribute to team projects, gain industry exposure, and strengthen technical expertise through real-world experience.
