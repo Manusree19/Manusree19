@@ -7,8 +7,8 @@ Warangal, Telangana
 Motivated student seeking an internship to apply academic knowledge and develop professional skills. Eager to contribute to team projects, gain industry exposure, and strengthen technical expertise through real-world experience.
 ## **Education**
 **B.Tech in Computer Science & Engineering** • SRIIT Hyderabad  
-Aug 2021 – May 2026 | Hyderabad, Telangana  
-CGPA: 6.4/10  
+Aug 2021 – Dec 2025 | Hyderabad, Telangana  
+CGPA: 6.5/10  
 **Coursework:** DSA, OS, DBMS, CN, Web Tech
 ## **Technical Skills**
 **Languages:** C, C++, Python  
