@@ -1,91 +1,65 @@
-# Hi, I'm Manusree Konda 👋
+👋 I'm Manusree Konda  
+Cloud & Data Enthusiast | Azure | Python | Data Analysis
 
-**B.Tech CSE Undergraduate | Cloud & Data Enthusiast | Software Intern Aspirant**  
-📍 Warangal, Telangana  
-🔗 [LinkedIn](https://www.linkedin.com/in/manusree-konda-74b611243/) | [GitHub](https://github.com/Manusree19)
-
----
-
-## 🚀 Summary
-Motivated Computer Science undergraduate with hands-on experience in **Python, Cloud (Azure/AWS), SQL, and Data Analysis**.  
-Currently building **Azure Fundamentals projects** and real-world data analytics workflows.  
-Actively seeking **Software / Cloud / Data Internships** to apply technical skills and gain industry exposure.
+I build, analyze, and deploy data-driven and cloud-based solutions with a strong focus on **Azure fundamentals, analytics, and automation**.  
+Currently developing hands-on cloud projects and data workflows to prepare for real-world industry roles.
 
 ---
 
-## 🎓 Education
-**B.Tech in Computer Science & Engineering** — SRIIT Hyderabad  
-📅 Aug 2021 – Dec 2025 | Hyderabad, Telangana  
-🎯 CGPA: 6.5 / 10  
-
-**Relevant Coursework:**  
-Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks, Web Technologies
+## 🚀 About Me
+🎓 **Undergraduate (B.Tech CSE)** actively building practical skills  
+💼 **Career Goal:** Become a skilled Cloud / Data Professional contributing to impactful projects  
+☁️ **Cloud Focus:** Azure fundamentals, App Services, VNets, Deployment Slots, Serverless  
+📊 **Data Skills:** Data analysis, visualization, and insights using Python & BI tools  
+💡 Passionate about learning by doing, clean solutions, and continuous improvement  
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠 Tech Stack
 
-### 👩‍💻 Programming
+**Cloud & Platforms**  
+- Microsoft Azure (App Service, VNet, Subnets, NSG, Deployment Slots, Azure Functions)  
+- AWS (EC2, S3 – basics)
+
+**Programming & Scripting**  
 - Python, C, C++
 
-### ☁️ Cloud & DevOps
-- Microsoft Azure (App Service, VNet, Deployment Slots, Azure Functions)
-- AWS (EC2, S3 – basics)
-- Git, Linux
-
-### 📊 Data Analysis & Visualization
-- NumPy, Pandas
-- Matplotlib, Seaborn
-- Power BI, Tableau
+**Data Analysis & Visualization**  
+- NumPy, Pandas  
+- Matplotlib, Seaborn  
+- Power BI, Tableau  
 - Excel
 
-### 🗄️ Databases & Tools
-- MySQL, PostgreSQL
-- VS Code
+**Databases & Tools**  
+- MySQL, PostgreSQL  
+- Git, Linux, VS Code  
 
 ---
 
-## 📂 Projects
+## 📌 Featured Projects
 
-### 🔹 Azure Fundamentals Hands-on Portfolio
-- Created and managed **Azure App Service**
-- Implemented **Deployment Slots for zero-downtime deployments**
-- Designed **Virtual Networks, Subnets, and NSGs**
-- Worked with **Azure Functions (Serverless)**  
-🔗 *Portfolio available in pinned repositories*
+🔹 **Azure Fundamentals Hands-on Portfolio**  
+- Created Azure App Services and Deployment Slots  
+- Implemented zero-downtime deployments  
+- Designed Virtual Networks, Subnets, and NSGs  
+- Worked with Azure Functions (Serverless)
 
----
+🔹 **Data Caching Optimization with Fairness in Mobile Edge Computing**  
+- Simulated mobile edge environments using Python  
+- Optimized caching strategies to reduce latency and improve fairness  
 
-### 🔹 Data Caching Optimization with Fairness in Mobile Edge Computing *(Python)*
-- Simulated mobile edge environments to analyze caching strategies
-- Improved resource utilization and reduced latency
-- Ensured fair data access across multiple users
+🔹 **Behaviour-Based Intranet Attack Detection using ML**  
+- Built ML-based models to detect abnormal intranet behavior  
+- Analyzed network activity logs for anomaly detection  
 
----
-
-### 🔹 Behaviour-Based Intranet Attack Detection using ML *(Python, ML)*
-- Built ML models to detect abnormal intranet user behavior
-- Analyzed network logs to identify security anomalies
-- Improved insider threat detection accuracy
+*(More projects coming — stay tuned!)*
 
 ---
 
-## 💼 Experience
+## 📫 Connect With Me
+📧 Email: manusree.k19@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/manusree-konda-74b611243/  
 
-**Python Developer Intern — Innovate Intern**  
-📅 Jun 2024 – Jul 2024 | Remote  
-- Developed a multi-level authentication system
-- Enhanced password security and unauthorized access protection
+⭐ Open to **Internship and Entry-Level Opportunities** in Cloud, Data, and Software roles
 
----
 
-## 📜 Certifications
-- Cisco Python Essentials (2025)
-- Deloitte Australia – Data Analytics Job Simulation (Forage, 2025)
-
----
-
-## 📫 Contact
-📧 manusree.k19@gmail.com  
-
-⭐ *Open to internship and entry-level opportunities in Software, Cloud, and Data roles*
