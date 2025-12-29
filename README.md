@@ -1,10 +1,5 @@
-👋 I'm Manusree Konda  
-Cloud & Data Enthusiast | Azure | Python | Data Analysis
-
-I build, analyze, and deploy data-driven and cloud-based solutions with a strong focus on **Azure fundamentals, analytics, and automation**.  
-Currently developing hands-on cloud projects and data workflows to prepare for real-world industry roles.
-
----
+👋 **I’m Manusree Konda**, a Computer Science undergraduate passionate about **Cloud Computing and Data Analysis**.  
+I’m building hands-on projects using **Azure, Python, SQL, and BI tools** and actively preparing for internship and entry-level roles.
 
 ## 🚀 About Me
 🎓 **Undergraduate (B.Tech CSE)** actively building practical skills  
