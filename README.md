@@ -1,10 +1,9 @@
 # ☁️ Konda Manusree  
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloud-Microsoft%20Azure-blue?style=for-the-badge&logo=microsoftazure" />
-  <img src="https://img.shields.io/badge/AWS-Foundational-orange?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-Cloud-blue?style=for-the-badge&logo=microsoftazure" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws" />
   <img src="https://img.shields.io/badge/Python-Programming-yellow?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Linux-OS-black?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Linux-Operating%20System-black?style=for-the-badge&logo=linux" />
 </p>
 
 <p align="center">
