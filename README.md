@@ -1,60 +1,137 @@
-👋 **I’m Manusree Konda**, a Computer Science undergraduate passionate about **Cloud Computing and Data Analysis**.  
-I’m building hands-on projects using **Azure, Python, SQL, and BI tools** and actively preparing for internship and entry-level roles.
+# ☁️ Konda Manusree  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-Microsoft%20Azure-blue?style=for-the-badge&logo=microsoftazure" />
+  <img src="https://img.shields.io/badge/AWS-Foundational-orange?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Python-Programming-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Linux-OS-black?style=for-the-badge&logo=linux" />
+</p>
+
+<p align="center">
+  <a href="https://manusree-konda-w3r0rnl.gamma.site/">
+    <img src="https://img.shields.io/badge/🌐-Portfolio-0A66C2?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/manusree-konda-74b611243/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
 
 ## 🚀 About Me
-🎓 **Undergraduate (B.Tech CSE)** actively building practical skills  
-💼 **Career Goal:** Become a skilled Cloud / Data Professional contributing to impactful projects  
-☁️ **Cloud Focus:** Azure fundamentals, App Services, VNets, Deployment Slots, Serverless  
-📊 **Data Skills:** Data analysis, visualization, and insights using Python & BI tools  
-💡 Passionate about learning by doing, clean solutions, and continuous improvement  
+
+Azure-focused Cloud Engineer passionate about building **secure, scalable, and production-ready cloud infrastructure**.
+
+I have hands-on experience designing and deploying solutions using Microsoft Azure services including Virtual Machines, Virtual Networks, App Services, Azure Key Vault, and Monitoring tools.
+
+🎯 Actively seeking **Cloud Engineer / Azure Support / Entry-Level Cloud Roles**
 
 ---
 
 ## 🛠 Tech Stack
 
-**Cloud & Platforms**  
-- Microsoft Azure (App Service, VNet, Subnets, NSG, Deployment Slots, Azure Functions)  
-- AWS (EC2, S3 – basics)
+### ☁️ Cloud Platforms
+Microsoft Azure (VM, VNet, Subnets, NSG, App Service, Storage Accounts, Azure Monitor, Azure Key Vault, Microsoft Entra ID, RBAC)  
+AWS (EC2, S3, IAM, VPC, CloudWatch)
 
-**Programming & Scripting**  
-- Python, C, C++
+### 🏗 Cloud Concepts
+IaaS | PaaS | SaaS  
+Virtualization  
+Identity & Access Management (IAM)  
+Cloud Security  
+Monitoring & Logging  
+High Availability  
+Basic Disaster Recovery Concepts  
 
-**Data Analysis & Visualization**  
-- NumPy, Pandas  
-- Matplotlib, Seaborn  
-- Power BI, Tableau  
-- Excel
+### 🚀 DevOps & Deployment
+Git | GitHub  
+Basic CI/CD Concepts  
+Deployment Slots  
+Infrastructure Basics  
+GitHub Actions (Basics)
 
-**Databases & Tools**  
-- MySQL, PostgreSQL  
-- Git, Linux, VS Code  
+### 🌐 Networking
+TCP/IP  
+DNS  
+HTTP/HTTPS  
+IP Addressing  
+Subnetting  
+Routing  
+
+### 💻 Operating Systems
+Linux  
+Windows Server  
+
+### 🐍 Programming & Scripting
+Python  
+Bash  
+C  
+C++  
+
+### 🗄 Databases
+MySQL  
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Cloud Projects
 
-🔹 **Azure Fundamentals Hands-on Portfolio**  
-- Created Azure App Services and Deployment Slots  
-- Implemented zero-downtime deployments  
-- Designed Virtual Networks, Subnets, and NSGs  
-- Worked with Azure Functions (Serverless)
-
-🔹 **Data Caching Optimization with Fairness in Mobile Edge Computing**  
-- Simulated mobile edge environments using Python  
-- Optimized caching strategies to reduce latency and improve fairness  
-
-🔹 **Behaviour-Based Intranet Attack Detection using ML**  
-- Built ML-based models to detect abnormal intranet behavior  
-- Analyzed network activity logs for anomaly detection  
-
-*(More projects coming — stay tuned!)*
+### 🔐 Azure Key Vault – Secure Secret Management
+- Created secure secret storage using Azure Key Vault  
+- Implemented RBAC using Microsoft Entra ID  
+- Configured Service Principal authentication  
+- Eliminated hard-coded credentials  
 
 ---
 
-## 📫 Connect With Me
-📧 Email: manusree.k19@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/manusree-konda-74b611243/  
+### 🌐 Secure & Scalable Web Application on Azure
+- Deployed scalable application using Azure App Service  
+- Integrated with Virtual Network  
+- Secured traffic using NSG  
+- Enabled Azure Monitor for observability  
 
-⭐ Open to **Internship and Entry-Level Opportunities** in Cloud, Data, and Software roles
+---
 
+### 🌍 Static Website Hosting on Azure
+- Hosted NGO website using Azure Storage  
+- Configured Blob container access  
+- Designed cost-effective hosting solution  
 
+---
+
+## 💼 Internship Experience
+
+### Python Developer Intern  
+**Innovate Intern | Jun 2024 – Jul 2024**
+
+- Developed secure multi-level authentication system  
+- Implemented password hashing and encrypted credential storage  
+- Built OTP-based two-factor authentication  
+- Created reusable authentication modules  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manusree-19&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manusree-19&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 📚 Certifications
+- Cisco Python Essentials 1  
+- Cisco Python Essentials 2  
+- Generative AI Mastermind – Outskill  
+
+---
+
+## 📫 Let's Connect
+
+📧 manusree.k19@gmail.com  
+🌐 Portfolio: https://manusree-konda-w3r0rnl.gamma.site/  
+💼 LinkedIn: https://www.linkedin.com/in/manusree-konda-74b611243/  
+
+---
+
+⭐ *Building secure infrastructure. Automating deployments. Growing as a Cloud Engineer.*
