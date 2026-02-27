@@ -1,4 +1,4 @@
-# ☁️ Konda Manusree  
+#  Konda Manusree  
 <p align="center">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -109,14 +109,6 @@ MySQL
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manusree-19&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manusree-19&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
 
 ## 📚 Certifications
 - Cisco Python Essentials 1  
