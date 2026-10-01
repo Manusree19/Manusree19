@@ -1,128 +1,195 @@
-#  Konda Manusree  
+# Konda Manusree
+
 <p align="center">
+  <strong>Full Stack Developer | React | React Native | JavaScript | REST APIs | PostgreSQL</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <p align="center">
-  <a href="https://manusree-konda-w3r0rnl.gamma.site/">
-    <img src="https://img.shields.io/badge/🌐-Portfolio-0A66C2?style=for-the-badge" />
-  </a>
   <a href="https://www.linkedin.com/in/manusree-konda-74b611243/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://manusree-konda-w3r0rnl.gamma.site/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-Azure-focused Cloud Engineer passionate about building **secure, scalable, and production-ready cloud infrastructure**.
+I am a **Full Stack Developer at Vayavi Enterprises**, working on web and mobile applications using **React, React Native, JavaScript, REST APIs, and PostgreSQL**.
 
-I have hands-on experience designing and deploying solutions using Microsoft Azure services including Virtual Machines, Virtual Networks, App Services, Azure Key Vault, and Monitoring tools.
+My work includes building reusable UI components, integrating APIs, implementing authentication and session workflows, handling form validation and errors, and troubleshooting application issues.
 
-🎯 Actively seeking **Cloud Engineer / Azure Support / Entry-Level Cloud Roles**
-
----
-
-## 🛠 Tech Stack
-
-### ☁️ Cloud Platforms
-Microsoft Azure (VM, VNet, Subnets, NSG, App Service, Storage Accounts, Azure Monitor, Azure Key Vault, Microsoft Entra ID, RBAC)  
-AWS (EC2, S3, IAM, VPC, CloudWatch)
-
-### 🏗 Cloud Concepts
-IaaS | PaaS | SaaS  
-Virtualization  
-Identity & Access Management (IAM)  
-Cloud Security  
-Monitoring & Logging  
-High Availability  
-Basic Disaster Recovery Concepts  
-
-### 🚀 DevOps & Deployment
-Git | GitHub  
-Basic CI/CD Concepts  
-Deployment Slots  
-Infrastructure Basics  
-GitHub Actions (Basics)
-
-### 🌐 Networking
-TCP/IP  
-DNS  
-HTTP/HTTPS  
-IP Addressing  
-Subnetting  
-Routing  
-
-### 💻 Operating Systems
-Linux  
-Windows Server  
-
-### 🐍 Programming & Scripting
-Python  
-Bash  
-C  
-C++  
-
-### 🗄 Databases
-MySQL  
+I also have hands-on experience with **Git, GitHub, Swagger, Postman, Ubuntu Server, HTTPS, and GitHub Actions** for development, API testing, debugging, and deployment workflows.
 
 ---
 
-## 📌 Featured Cloud Projects
+## 🛠️ Tech Stack
 
-### 🔐 Azure Key Vault – Secure Secret Management
-- Created secure secret storage using Azure Key Vault  
-- Implemented RBAC using Microsoft Entra ID  
-- Configured Service Principal authentication  
-- Eliminated hard-coded credentials  
+### Frontend
+- React
+- React Native
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### Backend & APIs
+- Node.js
+- Express.js
+- REST APIs
+- API Integration
+
+### Database
+- PostgreSQL
+- SQL
+
+### Authentication
+- User Authentication
+- Session Management
+- Authorization
+- Form Validation
+
+### Cloud & DevOps
+- Azure
+- AWS
+- Ubuntu Server
+- HTTPS
+- GitHub Actions
+
+### Tools
+- Git
+- GitHub
+- Swagger
+- Postman
+- VS Code
+
+### Programming
+- JavaScript
+- Python
 
 ---
 
-### 🌐 Secure & Scalable Web Application on Azure
-- Deployed scalable application using Azure App Service  
-- Integrated with Virtual Network  
-- Secured traffic using NSG  
-- Enabled Azure Monitor for observability  
+## 💼 Professional Experience
+
+### Full Stack Developer — Vayavi Enterprises
+
+**Apr 2026 – Present | Hyderabad, India**
+
+- Develop and maintain production web and mobile applications using React, React Native, and JavaScript.
+- Build reusable UI components and integrate REST APIs for application features and data workflows.
+- Implement authentication, session management, authorization, form validation, and error handling.
+- Work with PostgreSQL-backed APIs and use Swagger and Postman for API testing and debugging.
+- Troubleshoot frontend, API, authentication, and data-related issues.
+- Support backend deployment on Ubuntu Server using HTTPS and GitHub Actions.
 
 ---
 
-### 🌍 Static Website Hosting on Azure
-- Hosted NGO website using Azure Storage  
-- Configured Blob container access  
-- Designed cost-effective hosting solution  
+## 🚀 Projects
+
+### 🛍️ WOAH Deals
+
+**React | React Native | JavaScript | REST APIs | PostgreSQL**
+
+Deals platform supporting:
+
+- Deals and offers
+- Business listings
+- Coupons
+- Subscriptions
+- User authentication
+- User engagement
+
+Key contributions:
+
+- Developed web and mobile application features.
+- Built reusable and responsive UI components.
+- Integrated REST APIs across application workflows.
+- Implemented authentication, session handling, validation, and error handling.
+- Worked with PostgreSQL-backed APIs.
+- Used Swagger and Postman for API testing and debugging.
+- Supported backend deployment using Ubuntu Server, HTTPS, and GitHub Actions.
 
 ---
 
-## 💼 Internship Experience
+### 💍 NAPA Matrimony
 
-### Python Developer Intern  
-**Innovate Intern | Jun 2024 – Jul 2024**
+**React Native | JavaScript | REST APIs**
 
-- Developed secure multi-level authentication system  
-- Implemented password hashing and encrypted credential storage  
-- Built OTP-based two-factor authentication  
-- Created reusable authentication modules  
+- Developed user registration and authentication workflows.
+- Built profile management features.
+- Created reusable React Native components.
+- Integrated REST APIs for application data.
+- Implemented form validation and API error handling.
+- Improved mobile UI and application usability.
 
 ---
 
+### ❤️ NAPA DADA
+
+**React Native | JavaScript | REST APIs**
+
+- Developed features for a donation platform.
+- Built reusable React Native interfaces.
+- Integrated REST APIs for donation-related workflows.
+- Implemented form handling and validation.
+- Handled API errors and improved application usability.
+
+---
+
+### 🏢 NAPA Business Directory
+
+**React | JavaScript | REST APIs**
+
+- Developed responsive business listing and detail interfaces.
+- Built reusable components for business-related workflows.
+- Integrated REST APIs for retrieving business information.
+- Implemented search and filtering functionality.
+- Developed navigation and user-facing workflows.
+- Worked on form handling, API error handling, and UI improvements.
+
+---
 
 ## 📚 Certifications
-- Cisco Python Essentials 1  
-- Cisco Python Essentials 2  
-- Generative AI Mastermind – Outskill  
+
+- Python Essentials 1 & 2 — Cisco Networking Academy
 
 ---
 
-## 📫 Let's Connect
+## 🎯 Currently Focused On
 
-📧 manusree.k19@gmail.com  
-🌐 Portfolio: https://manusree-konda-w3r0rnl.gamma.site/  
-💼 LinkedIn: https://www.linkedin.com/in/manusree-konda-74b611243/  
+- Full Stack Development
+- React & React Native
+- REST API Development
+- PostgreSQL
+- Backend Development
+- Cloud & Deployment
+- CI/CD with GitHub Actions
 
 ---
 
-⭐ *Building secure infrastructure. Automating deployments. Growing as a Cloud Engineer.*
+## 📫 Connect With Me
+
+- 📧 **Email:** manusree.k19@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/manusree-konda-74b611243](https://www.linkedin.com/in/manusree-konda-74b611243/)
+- 🌐 **Portfolio:** [manusree-konda-w3r0rnl.gamma.site](https://manusree-konda-w3r0rnl.gamma.site/)
+
+---
+
+⭐ **Building applications, integrating APIs, solving problems, and continuously growing as a Full Stack Developer.**
